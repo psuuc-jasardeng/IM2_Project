@@ -1,0 +1,14 @@
+C:\Users\MyPC\source\repos\test\HW1_Sardeng\HW1_Sardeng\bin\Debug\net8.0\HW1_Sardeng.exe
+C:\Users\MyPC\source\repos\test\HW1_Sardeng\HW1_Sardeng\bin\Debug\net8.0\HW1_Sardeng.deps.json
+C:\Users\MyPC\source\repos\test\HW1_Sardeng\HW1_Sardeng\bin\Debug\net8.0\HW1_Sardeng.runtimeconfig.json
+C:\Users\MyPC\source\repos\test\HW1_Sardeng\HW1_Sardeng\bin\Debug\net8.0\HW1_Sardeng.dll
+C:\Users\MyPC\source\repos\test\HW1_Sardeng\HW1_Sardeng\bin\Debug\net8.0\HW1_Sardeng.pdb
+C:\Users\MyPC\source\repos\test\HW1_Sardeng\HW1_Sardeng\obj\Debug\net8.0\HW1_Sardeng.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MyPC\source\repos\test\HW1_Sardeng\HW1_Sardeng\obj\Debug\net8.0\HW1_Sardeng.AssemblyInfoInputs.cache
+C:\Users\MyPC\source\repos\test\HW1_Sardeng\HW1_Sardeng\obj\Debug\net8.0\HW1_Sardeng.AssemblyInfo.cs
+C:\Users\MyPC\source\repos\test\HW1_Sardeng\HW1_Sardeng\obj\Debug\net8.0\HW1_Sardeng.csproj.CoreCompileInputs.cache
+C:\Users\MyPC\source\repos\test\HW1_Sardeng\HW1_Sardeng\obj\Debug\net8.0\HW1_Sardeng.dll
+C:\Users\MyPC\source\repos\test\HW1_Sardeng\HW1_Sardeng\obj\Debug\net8.0\refint\HW1_Sardeng.dll
+C:\Users\MyPC\source\repos\test\HW1_Sardeng\HW1_Sardeng\obj\Debug\net8.0\HW1_Sardeng.pdb
+C:\Users\MyPC\source\repos\test\HW1_Sardeng\HW1_Sardeng\obj\Debug\net8.0\HW1_Sardeng.genruntimeconfig.cache
+C:\Users\MyPC\source\repos\test\HW1_Sardeng\HW1_Sardeng\obj\Debug\net8.0\ref\HW1_Sardeng.dll
