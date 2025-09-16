@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MyPC\\source\\repos\\SW1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B1C6349-3741-49D1-A419-51E390AA6B3D}|SW1\\SW1.csproj|c:\\users\\mypc\\source\\repos\\sw1\\sw1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B1C6349-3741-49D1-A419-51E390AA6B3D}|SW1\\SW1.csproj|solutionrelative:sw1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MyPC\\source\\repos\\SW1\\SW1\\Program.cs",
+              "RelativeDocumentMoniker": "SW1\\Program.cs",
+              "ToolTip": "C:\\Users\\MyPC\\source\\repos\\SW1\\SW1\\Program.cs",
+              "RelativeToolTip": "SW1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T11:25:14.609Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
