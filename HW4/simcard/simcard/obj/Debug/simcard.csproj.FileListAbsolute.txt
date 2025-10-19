@@ -1,0 +1,11 @@
+C:\Users\MyPC\source\repos\simcard\simcard\obj\Debug\simcard.csproj.AssemblyReference.cache
+C:\Users\MyPC\source\repos\simcard\simcard\obj\Debug\simcard.Form1.resources
+C:\Users\MyPC\source\repos\simcard\simcard\obj\Debug\simcard.Properties.Resources.resources
+C:\Users\MyPC\source\repos\simcard\simcard\obj\Debug\simcard.csproj.GenerateResource.cache
+C:\Users\MyPC\source\repos\simcard\simcard\obj\Debug\simcard.csproj.CoreCompileInputs.cache
+C:\Users\MyPC\source\repos\simcard\simcard\bin\Debug\simcard.exe.config
+C:\Users\MyPC\source\repos\simcard\simcard\bin\Debug\simcard.exe
+C:\Users\MyPC\source\repos\simcard\simcard\bin\Debug\simcard.pdb
+C:\Users\MyPC\source\repos\simcard\simcard\obj\Debug\simcard.exe
+C:\Users\MyPC\source\repos\simcard\simcard\obj\Debug\simcard.pdb
+C:\Users\MyPC\source\repos\simcard\simcard\obj\Debug\simcard.Form2.resources
